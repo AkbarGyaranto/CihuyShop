@@ -1,0 +1,84 @@
+
+
+
+.cart-icon {
+    margin-left: 150px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #ebf3ff;
+    
+}
+
+#projects {
+    background-color: #ebf3ff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.galerry-img {
+    width: 100%;
+
+}
+
+#galerry .row > * {
+    padding: 0;
+}
+
+footer {
+    background-color: white;
+    color: #666;
+    padding-top: 10%;
+    margin-top: 10%;
+  }
+  
+  footer h4 {
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  footer p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  footer ul li a {
+    color: #666;
+    font-size: 14px;
+    text-decoration: none;
+  }
+  
+  footer ul li a:hover {
+    color: #333;
+  }
+  
+  @media (max-width: 767px) {
+    footer {
+      text-align: center;
+    }
+    
+    footer .col-md-4 {
+      margin-bottom: 30px;
+    }
+    
+    footer ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+  }
+  
