@@ -8,6 +8,10 @@ margin-left: 100px;
     
 }
 
+.font {
+  font-size: 18px;
+}
+
 #projects {
     background-color: #ebf3ff;
 }
@@ -26,7 +30,7 @@ section {
 }
 
 footer {
-  margin-top: 5rem;
+  margin-top: 10rem;
   background-color: white;
   color: #333;
   padding: 50px 0;
@@ -68,11 +72,6 @@ footer ul li a {
   margin: 0;
 }
 
-.cover {
-width: 390px;
-height: 140px;
-}
-
 .bottom-bar ul {
   list-style: none;
   padding: 0;
@@ -87,7 +86,9 @@ height: 140px;
 .bottom-bar ul li a {
   color: #333;
   text-decoration: none;
+  
 }
+
 
 @media (max-width: 767px) {
   footer {
